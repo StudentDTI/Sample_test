@@ -1,5 +1,5 @@
 import numpy as np
-import pickle5==0.0.11 as pickle
+import pickle
 import streamlit as st
 
 
